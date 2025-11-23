@@ -1,4 +1,4 @@
-# SMTP Port Connectivity Tester
+# Email Port Tester
 
 A simple PHP script to test outbound connectivity to common SMTP ports (25, 465, 587) from your server. This is useful for verifying if your VPS provider (like Hetzner, AWS, DigitalOcean) is blocking email ports.
 
